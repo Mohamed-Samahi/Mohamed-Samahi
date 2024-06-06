@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohamed Samahi</h1>
-<h3 align="center">A passionate Full-Stack Developer</h3>
+<h3 align="center">Full-Stack Developer</h3>
 
 - 🌱 I’m currently learning **Angular, ASP.net, AWS, Docker.**
 
