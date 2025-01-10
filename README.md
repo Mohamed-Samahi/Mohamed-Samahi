@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mohamed Samahi</h1>
 <h3 align="center">Full-Stack Developer</h3>
 
-- 👨‍💻 All of my projects are available at [https://mohamed-samahi.vercel.app/](https://mohamed-samahi.vercel.app/#projects)
-
 - 💬 Ask me about **Javascript, NextJS, Angular, Frontend, NodeJS, Backend.**
+
+- 👨‍💻 All of my projects are available at [https://mohamed-samahi.vercel.app/](https://mohamed-samahi.vercel.app/#projects)
 
 - 📫 How to reach me **mohamedsamahi.work@gmail.com**
 
